@@ -115,4 +115,3 @@ public void addCorsMappings(CorsRegistry registry) {
 This ensures the API can be accessed from any frontend.
 
 ---
-
